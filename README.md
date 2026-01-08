@@ -154,7 +154,7 @@ Drug rehab website <!DOCTYPE html>
     <h2>Contact Us</h2>
     <div class="contact-box">
       <p><strong>Phone:</strong> (209) 785-3667</p>
-      <p><strong>Email:</strong> info@changingechos.com</p>
+      <p><strong>Email:</strong> info@changingechoes@changingechoes.com</p>
       <p><strong>Location:</strong> Confidential & Safe Location</p>
       <p>If you or a loved one is ready to begin recovery, reach out today.</p>
     </div>

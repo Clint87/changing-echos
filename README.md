@@ -166,7 +166,7 @@ Drug rehab website <!DOCTYPE html>
   </div>
 
   <footer>
-    <p>&copy; 2025 Changing Echoes Recovery Center. All rights reserved.</p>
+    <p>&copy; 2026 Changing Echoes Recovery Center. All rights reserved.</p>
   </footer>
 
 </body>

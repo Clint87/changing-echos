@@ -114,7 +114,7 @@ Drug rehab website <!DOCTYPE html>
     <h2>Our Programs</h2>
     <div class="services">
       <div class="card">
-        <h3>Medical Detox</h3>
+        <h3>Medically Monitored Detox</h3>
         <p>Safe, supervised detoxification with medical and emotional support.</p>
       </div>
       <div class="card">

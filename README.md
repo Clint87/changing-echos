@@ -1,10 +1,10 @@
-# changing-echos
+# changing-echoes
 Drug rehab website <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Changing Echos | Recovery & Renewal</title>
+  <title>Changing Echoes | Recovery & Renewal</title>
   <style>
     body {
       margin: 0;
@@ -89,7 +89,7 @@ Drug rehab website <!DOCTYPE html>
 <body>
 
   <header>
-    <h1>Changing Echos</h1>
+    <h1>Changing Echoes</h1>
     <p>Where healing begins, patterns change, and hope finds its voice.</p>
   </header>
 
@@ -101,9 +101,9 @@ Drug rehab website <!DOCTYPE html>
   </nav>
 
   <section id="about">
-    <h2>About Changing Echos</h2>
+    <h2>About Changing Echoes</h2>
     <p>
-      Changing Echos is a compassionate substance abuse rehabilitation center
+      Changing Echoes is a compassionate substance abuse rehabilitation center
       dedicated to helping individuals reclaim their lives from addiction.
       We believe recovery is not about silence or shame — it is about changing
       the echo of the past into a voice of strength, clarity, and purpose.
@@ -143,7 +143,7 @@ Drug rehab website <!DOCTYPE html>
   <section id="approach">
     <h2>Our Approach</h2>
     <p>
-      At Changing Echos, we treat the whole person — mind, body, and spirit.
+      At Changing Echoes, we treat the whole person — mind, body, and spirit.
       Our evidence-based therapies are combined with trauma-informed care,
       peer support, and individualized treatment plans. We meet people where
       they are and walk with them toward lasting recovery.
@@ -153,7 +153,7 @@ Drug rehab website <!DOCTYPE html>
   <section id="contact">
     <h2>Contact Us</h2>
     <div class="contact-box">
-      <p><strong>Phone:</strong> (555) 123-4567</p>
+      <p><strong>Phone:</strong> (209) 785-3667</p>
       <p><strong>Email:</strong> info@changingechos.com</p>
       <p><strong>Location:</strong> Confidential & Safe Location</p>
       <p>If you or a loved one is ready to begin recovery, reach out today.</p>
@@ -166,7 +166,7 @@ Drug rehab website <!DOCTYPE html>
   </div>
 
   <footer>
-    <p>&copy; 2025 Changing Echos Recovery Center. All rights reserved.</p>
+    <p>&copy; 2025 Changing Echoes Recovery Center. All rights reserved.</p>
   </footer>
 
 </body>
